@@ -26,8 +26,6 @@ Wybierz opcje:
 1 - Adres IP
 2 - Adres URL \033[0m
 ''')
-import requests
-import threading
 
 wyboradresu = int(input(">>  "))
 
@@ -65,3 +63,4 @@ def url():
 
 
 url()
+
