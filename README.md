@@ -1,3 +1,9 @@
+![Forks](https://img.shields.io/github/forks/twoj_user/twoje_repo?style=social)
+![Stars](https://img.shields.io/github/stars/twoj_user/twoje_repo?style=social)
+![License](https://img.shields.io/github/license/twoj_user/twoje_repo)
+![Last commit](https://img.shields.io/github/last-commit/twoj_user/twoje_repo)
+
+
 # 🌐 Edukacyjny generator zapytań HTTP (Python)
 
 Ten projekt to prosty program służący do wysyłania wielu zapytań HTTP (GET) do wskazanego adresu URL z wykorzystaniem **wielowątkowości w Pythonie**.  
