@@ -1,7 +1,7 @@
-![Forks](https://img.shields.io/github/forks/twoj_user/twoje_repo?style=social)
-![Stars](https://img.shields.io/github/stars/twoj_user/twoje_repo?style=social)
-![License](https://img.shields.io/github/license/twoj_user/twoje_repo)
-![Last commit](https://img.shields.io/github/last-commit/twoj_user/twoje_repo)
+![Forks](https://img.shields.io/github/forks/kacpernowak122/RYZEN-DOS?style=social)
+![Stars](https://img.shields.io/github/stars/kacpernowak122/RYZEN-DOS?style=social)
+![License](https://img.shields.io/github/license/kacpernowak122/RYZEN-DOSo)
+![Last commit](https://img.shields.io/github/last-commit/kacpernowak122/RYZEN-DOS)
 
 
 # 🌐 Edukacyjny generator zapytań HTTP (Python)
