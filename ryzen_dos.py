@@ -1,7 +1,10 @@
 import requests
 import threading
+import os
 
 wersja = 1.1
+
+os.system("cls" if os.name == "nt" else "clear")
 
 ascii_art = f'''\033[31m
       :::::::::  :::   ::: ::::::::: :::::::::: ::::    :::          :::::::::   ::::::::   :::::::: 
@@ -45,3 +48,4 @@ for w in range(watek_ilosc):
 for watek in watki:
 
     watek.join()
+
