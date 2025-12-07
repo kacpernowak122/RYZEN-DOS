@@ -1,7 +1,9 @@
 import requests
 import threading
 
-ascii_art = '''\033[31m
+wersja = 1.1
+
+ascii_art = f'''\033[31m
       :::::::::  :::   ::: ::::::::: :::::::::: ::::    :::          :::::::::   ::::::::   :::::::: 
      :+:    :+: :+:   :+:      :+:  :+:        :+:+:   :+:          :+:    :+: :+:    :+: :+:    :+: 
     +:+    +:+  +:+ +:+      +:+   +:+        :+:+:+  +:+          +:+    +:+ +:+    +:+ +:+         
@@ -12,7 +14,7 @@ ascii_art = '''\033[31m
 '''
 
 print(f'''{ascii_art} \033[36m
-                                            Stworzone przez nowak122
+                                            Stworzone przez nowak122 v{wersja}
             UWAGA: Autor programu nie ponosi odpowiedzialności za jakiekolwiek szkody wynikłe z jego używania.
             Ten program jest przeznaczony wyłącznie do celów edukacyjnych i testowania własnych projektów.
             Nie używaj go do atakowania stron internetowych ani innych systemów bez zgody właściciela. \033[0m
@@ -41,4 +43,5 @@ for w in range(watek_ilosc):
     watek.start()
 
 for watek in watki:
+
     watek.join()
